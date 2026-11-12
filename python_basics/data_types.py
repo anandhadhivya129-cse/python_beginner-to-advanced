@@ -1,0 +1,10 @@
+a=12
+b=15
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a%b)
+print(type(a))
+bool=()
+print(type(bool))
